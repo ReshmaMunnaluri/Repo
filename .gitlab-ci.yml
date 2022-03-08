@@ -1,0 +1,5 @@
+demo_job:
+	tags:
+	  -shell
+	script:
+	  -echo hiii
